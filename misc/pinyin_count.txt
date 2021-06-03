@@ -994,7 +994,7 @@ ken 2
 kending 1
 keneng 57
 keni 1
-keshi 10 1 1 1 1
+keshi 11 1 1 1 1
 kewei 7
 kexi 1
 kexing 19
@@ -1698,7 +1698,7 @@ tuo 5
 tuozhan 5
 tuwenti 1
 tuxing 15
-tuyouhua 2
+tuyouhua 3
 tuzhong 4 2
 wa 2
 waerlasi 5 1
