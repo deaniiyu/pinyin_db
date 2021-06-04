@@ -922,7 +922,7 @@ jinzai 1
 jinzhi 6 4 2 1
 jinzhiji 1
 jiqi 6 4 1
-jishi 1
+jishi 1 1
 jishou 2
 jishu 3
 jishuang 1
@@ -1944,7 +1944,7 @@ yeneng 1
 yeshi 15
 yeyou 6
 yezhe 1
-yi 228 50 11 9 3 3 3 2 2 1 1 1 1 1 1 1
+yi 228 51 11 9 3 3 3 2 2 1 1 1 1 1 1 1
 yiban 28
 yibu 1
 yibufen 9 1
@@ -1961,3 +1961,4 @@ yifen 9
 yigao 2 1
 yige 235
 yihan 1
+yijishi 1
