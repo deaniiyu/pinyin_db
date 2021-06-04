@@ -212,7 +212,7 @@ cheli 3
 chen 3 1
 cheng 32 8 3 2 1 1
 chengben 5
-chengdu 28
+chengdu 29
 chengfa 1
 chenggong 8
 chengjiao 6
@@ -1440,7 +1440,7 @@ sanzhe 1
 sanzhong 9
 se 2
 sha 3
-shang 104 1 1
+shang 105 1 1
 shangban 3
 shangbao 3
 shangde 3
