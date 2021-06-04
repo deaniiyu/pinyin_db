@@ -46,7 +46,7 @@ bengdi 1
 bengkui 1
 benjie 9
 benshen 12
-benwen 6
+benwen 7
 benzhang 15
 benzhangzhong 5
 benzhi 2
@@ -335,7 +335,7 @@ daxiaoqiu 3
 dayu 12
 dayue 1
 dazhi 16
-de 1978 20 5 1
+de 1979 20 5 1
 dechu 9
 dedao 38
 defen 1
@@ -854,7 +854,7 @@ jielun 16
 jier 1
 jieru 4 1
 jieshao 6
-jieshi 20 1
+jieshi 20 2
 jieshou 6 5
 jieshu 12
 jiewei 1
@@ -1043,7 +1043,7 @@ laiziyu 1
 lan 1
 lang 2 1
 lanqiu 1
-le 148 12 1
+le 149 12 1
 lei 14 8
 leiji 4
 leisi 33
@@ -1211,7 +1211,7 @@ mouwei 2
 mouxiang 1
 mouxie 14
 mouzhong 6
-moxing 57
+moxing 58
 mu 2
 mubiao 18
 mudi 3
