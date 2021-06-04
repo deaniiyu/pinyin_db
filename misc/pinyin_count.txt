@@ -47,7 +47,7 @@ bengkui 1
 benjie 9
 benshen 12
 benwen 6
-benzhang 14
+benzhang 15
 benzhangzhong 5
 benzhi 2
 bi 31 22 15 2 2 1 1
@@ -637,6 +637,7 @@ gongzuo 2
 gou 5 1 1
 goucheng 17
 gougonghedang 1
+goujian 1
 goumai 13
 gouxuan 4
 gouzao 26
