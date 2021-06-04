@@ -335,7 +335,7 @@ daxiaoqiu 3
 dayu 12
 dayue 1
 dazhi 16
-de 1979 20 5 1
+de 1980 20 5 1
 dechu 9
 dedao 38
 defen 1
@@ -421,7 +421,7 @@ dtaolun 1
 du 44 5 1 1
 duan 4 1
 duanshi 2
-dui 239 1 1
+dui 240 1 1
 duibi 1
 duichen 11
 duifang 1
@@ -566,7 +566,7 @@ gagai 1
 gai 170 2 1
 gaibian 1
 gaikuo 1
-gailv 108
+gailv 109
 gainian 4
 gaishizi 1
 gaishu 1
@@ -816,7 +816,7 @@ jiaoxiao 10
 jiaoyan 1
 jiaoyi 88
 jiaoyiliang 1
-jiaoyizhe 214
+jiaoyizhe 215
 jiaozhi 1
 jiaozhun 1
 jiaqiang 1
