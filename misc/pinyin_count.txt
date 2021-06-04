@@ -962,7 +962,7 @@ junheng 69
 junshi 1
 junwei 4
 junyun 7
-juti 27
+juti 28
 juxian 4
 juyou 19
 juzhen 2
@@ -1035,7 +1035,7 @@ la 7
 lagelangri 5
 lai 83
 laikan 3
-laishuo 10
+laishuo 11
 laiyuan 1
 laizi 3
 laiziyu 1
